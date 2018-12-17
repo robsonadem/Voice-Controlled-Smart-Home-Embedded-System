@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/adc_intf.c</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/Audio_input.h</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/analog_in.h</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/music_control.c</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/Audio_input.c</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Lab_01.X/Delay.c</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/fan_control.c</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/analog_in.c</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/status_display.c</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/window_control.c</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/voice_command_response.c</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/UART.c</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/timer.c</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/light_control.h</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/adc_intf.h</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/light_control.c</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/main.c</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/tft_gfx.c</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/tft_gfx.h</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/tft_master.h</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/timer.h</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/UART.h</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/tft_master.c</file>
+            <file>file:/P:/ece_scratch/ECE414_Tianyu_Robson/Smart_home.X/glcdfont.c</file>
+        </group>
+    </open-files>
+</project-private>
